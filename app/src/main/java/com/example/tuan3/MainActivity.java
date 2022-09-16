@@ -24,7 +24,8 @@ public class MainActivity extends Activity {
         Intent myIntent=new Intent(this, ChildActivity.class);
         startActivity(myIntent);
     }
-    /*public boolean onCreateOptionsMenu(Menu menu) {
+    /*
+    ublic boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.this, menu);
         return true;
