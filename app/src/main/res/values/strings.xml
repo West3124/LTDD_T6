@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tuan3</string>
+    <string name="mainActivityTitle">This is main activity</string>
+    <string name="childActivityTitle">This is child activity</string>
+</resources>
