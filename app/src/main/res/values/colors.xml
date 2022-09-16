@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#FF5722</color>
     <color name="yellow">#FFFFEB3B</color>
+    <color name="bgMA">#D8C625</color>
+    <color name="brightPurple">#BF40BF</color>
 </resources>

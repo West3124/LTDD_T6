@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Tuan3</string>
-    <string name="mainActivityTitle">This is main activity</string>
-    <string name="childActivityTitle">This is child activity</string>
+    <string name="mainActivityTitle">This is first activity</string>
+    <string name="childActivityTitle">This is second activity</string>
+    <string name="changeCAButton">Click me</string>
+    <string name="changeMAButton">Back</string>
+    <string name="name_id">Đồng Hải Long - 2050531200224</string>
 </resources>
